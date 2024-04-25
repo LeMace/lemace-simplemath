@@ -1,0 +1,20 @@
+{
+  "name": "lemace-simplemath",
+  "version": "1.0.1",
+  "description": "simple math module",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/your-repo-name.git"
+  },
+  "author": "LeMace",
+  "license": "ISC",
+  "dependencies": {
+    "mathjs": "^12.4.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}

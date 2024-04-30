@@ -11,9 +11,11 @@
   "author": "LeMace",
   "license": "ISC",
   "dependencies": {
-    "mathjs": "^12.4.2"
+    "mathjs": "^12.4.2",
+    "string-width": "^7.1.0"
   },
   "devDependencies": {
     "jest": "^29.7.0"
-  }
+  },
+  "type": "module"
 }
